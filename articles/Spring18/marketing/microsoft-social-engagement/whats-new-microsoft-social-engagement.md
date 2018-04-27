@@ -1,7 +1,7 @@
 ---
 
 title: Spring ’18 summary of what’s new in Microsoft Social Engagement
-description: | April 2018 – General Availability                                                                                                                                                                                                                             | |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | Compliance                                                                                                                                                                                                                                                    | | General Data Protection Regulation (GDPR) - Investments address the European privacy law’s requirements.
+description: Spring ’18 summary of what’s new in Microsoft Social Engagementprivacy law’s requirements.
 author: MargoC
 manager: AnnBe
 ms.date: 4/27/2018

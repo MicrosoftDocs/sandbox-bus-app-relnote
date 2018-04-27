@@ -1,7 +1,7 @@
 ---
 
 title: Spring ’18 summary of what’s new in Talent – Attract
-description: | February 2018 - General Availability                                                                                                                                                                                 | |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | [Configurable hiring process](whats-new-talent-attract.
+description: Spring ’18 summary of what’s new in Talent – Attract
 author: MargoC
 manager: AnnBe
 ms.date: 4/27/2018

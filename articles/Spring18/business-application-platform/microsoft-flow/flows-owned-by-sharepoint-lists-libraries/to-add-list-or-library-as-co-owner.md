@@ -1,7 +1,7 @@
 ---
 
 title: To add a list or library as a co-owner
-description: For a flow that uses a SharePoint action (for example, when an item is added or modified):  1.
+description: To add a list or library as a co-owner
 author: MargoC
 manager: AnnBe
 ms.date: 4/27/2018

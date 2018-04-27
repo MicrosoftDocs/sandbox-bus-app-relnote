@@ -1,7 +1,7 @@
 ---
 
 title: Spring ’18 summary of what’s new in Data Integration
-description: | General Availability                                                                                                            | |---------------------------------------------------------------------------------------------------------------------------------| | [New and improved connectors for Power BI](new-improved-connectors-power-bi)                                                                | | Improved SAP BW DirectQuery connector.
+description: Spring ’18 summary of what’s new in Data Integration                                                                | | Improved SAP BW DirectQuery connector.
 author: MargoC
 manager: AnnBe
 ms.date: 4/26/2018

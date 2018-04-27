@@ -1,7 +1,7 @@
 ---
 
 title: Spring '18 summary of what’s new in Common Data Service for Apps
-description: | April '18 - General Availability                                          | |---------------------------------------------------------------------------| | [Support for additional data types](support-additional-data-types.
+description: Spring '18 summary of what’s new in Common Data Service for Apps
 author: MargoC
 manager: AnnBe
 ms.date: 4/27/2018

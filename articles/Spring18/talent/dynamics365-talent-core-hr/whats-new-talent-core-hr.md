@@ -1,7 +1,7 @@
 ---
 
 title: Spring ’18 summary of what’s new in Talent – Core HR
-description: | January ’18 - General Availability                                                                                                                                                                                                 | |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | [Manager self-service promotion requests/workflow](_Manager_self-service_1) - Expanded manager self-service capabilities.
+description: Spring ’18 summary of what’s new in Talent – Core HR
 author: MargoC
 manager: AnnBe
 ms.date: 4/27/2018

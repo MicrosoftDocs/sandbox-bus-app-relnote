@@ -1,7 +1,7 @@
 ---
 
 title: Spring '18 summary of what’s new in Microsoft Flow
-description: | April '18 - General Availability                                                             | |----------------------------------------------------------------------------------------------| | [Return data to PowerApps from a flow](return-data-to-powerapps-a-flow)                                     | | [Access modern approvals in the Common Data Service for Apps](access-modern-approvals-the-common-data-service-apps.
+description: Spring '18 summary of what’s new in Microsoft Flow
 author: MargoC
 manager: AnnBe
 ms.date: 4/27/2018

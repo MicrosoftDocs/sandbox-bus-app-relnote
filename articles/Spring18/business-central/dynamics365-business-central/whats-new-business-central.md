@@ -1,7 +1,7 @@
 ---
 
 title: Spring ’18 summary of what’s new in Business Central
-description: | March 2018 - General Availability                                                                                                                                                                                                                             | |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | Broad regional availability                                                                                                                                                                                                                                   | | [14 markets - Dynamics 365 Business Central is available in 14 markets.
+description: Spring ’18 summary of what’s new in Business Central
 author: MargoC
 manager: AnnBe
 ms.date: 4/27/2018

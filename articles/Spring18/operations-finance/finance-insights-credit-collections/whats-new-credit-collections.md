@@ -1,7 +1,7 @@
 ---
 
 title: Spring ’18 summary of what’s new in Credit and collections
-description: | April ’18 - Public Preview                                                                                                                         | |----------------------------------------------------------------------------------------------------------------------------------------------------| | Credit and collections insights provides analytics that help organizations effectively manage their credit and collections processes.
+description: Spring ’18 summary of what’s new in Credit and collections
 author: MargoC
 manager: AnnBe
 ms.date: 4/27/2018

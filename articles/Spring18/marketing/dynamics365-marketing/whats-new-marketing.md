@@ -1,7 +1,7 @@
 ---
 
 title: Spring ’18 summary of what’s new in Marketing
-description: | April 2018 – General Availability                                                                                                                                                                                                                             | |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| | [Easy setup with guided first-run experience](easy-setup-guided-first-run-experience.
+description: Spring ’18 summary of what’s new in Marketing
 author: MargoC
 manager: AnnBe
 ms.date: 4/27/2018
