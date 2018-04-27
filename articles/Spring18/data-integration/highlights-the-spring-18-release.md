@@ -28,7 +28,7 @@ audience: Admin
 -   **27 new connectors for PowerApps, Flow, and Logic Apps (Public Preview)** –
     Includes connectors for Excel Online, Microsoft To-Do, ServiceNow, Workday
     HCM, and Azure SQL Data Warehouse, among others. [See the full
-    list](improved-connectors-powerapps-flow-logic-apps).
+    list](improved-connectors-powerapps-flow-logic-apps/index.md).
 
 -   **3 new connectors for Power BI (General Availability)** – Includes Adobe
     Analytics, IBM Netezza, and Azure Analysis Services.
