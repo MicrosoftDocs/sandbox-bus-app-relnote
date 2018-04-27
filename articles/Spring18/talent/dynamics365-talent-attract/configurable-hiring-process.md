@@ -34,7 +34,7 @@ jobs. For seasonal workers, there might be just one interview stage, but for
 full-time employees, the process might be more complex and consist of multiple
 screening and interview stages.
 
-![A screenshot of the configurable hiring process](media/configurable-hiring-process-1.tif "A screenshot of the configurable hiring process")
+![A screenshot of the configurable hiring process](media/configurable-hiring-process-1.png "A screenshot of the configurable hiring process")
 <!-- Talent_Configurable hiring process_A.tif -->
 
 
