@@ -1,7 +1,7 @@
 ---
 
 title: Relationship analytics (Public Preview)
-description: **Relationship analytics** helps salespeople manage the opportunities pipeline by analyzing relationships and presenting data and insights about the health of customer relationships.
+description: Relationship analytics helps salespeople manage the opportunities pipeline by analyzing relationships and presenting data and insights about the health of customer relationships.
 author: MargoC
 manager: AnnBe
 ms.date: 4/27/2018

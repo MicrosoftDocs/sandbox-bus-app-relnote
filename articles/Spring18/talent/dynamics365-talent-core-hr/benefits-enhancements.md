@@ -1,7 +1,7 @@
 ---
 
 title: Benefits enhancements
-description: -   **Benefits open enrollment**.
+description: Benefits enhancements
 author: MargoC
 manager: AnnBe
 ms.date: 4/27/2018

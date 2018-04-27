@@ -52,12 +52,12 @@ The following changes are included in the Spring ’18 Release Notes version
 |                                | Test flows with previous run data                                                                                                                          |
 |                                | Access flow details with the workflow() expression                                                                                                         |
 |                                | For Microsoft Flow, added May features:                                                                                                                    |
-|                                | [Create a business process flow](business-application-platform)                                                                                                      |
-|                                | [Business process flow entity customization](business-application-platform)                                                                                      |
-|                                | [Add an action to a business process flow](business-application-platform)                                                                                                |
-|                                | [Create a flow for Microsoft To-Do in Outlook web app](business-application-platform)                                                                                    |
-|                                | [Test your flow by using sample data](business-application-platform)                                                                                                    |
-|                                | [Quick access to help and support](business-application-platform)                                                                                                      |
+|                                | [Create a business process flow](business-application-platform/index.md)                                                                                                      |
+|                                | [Business process flow entity customization](business-application-platform/index.md)                                                                                      |
+|                                | [Add an action to a business process flow](business-application-platform/index.md)                                                                                                |
+|                                | [Create a flow for Microsoft To-Do in Outlook web app](business-application-platform/index.md)                                                                                    |
+|                                | [Test your flow by using sample data](business-application-platform/index.md)                                                                                                    |
+|                                | [Quick access to help and support](business-application-platform/index.md)                                                                                                      |
 | Business Intelligence Platform | Power BI Desktop revisions:                                                                                                                                |
 
 -   Book by estimated arrival time instead of start of travel

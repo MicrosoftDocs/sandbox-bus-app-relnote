@@ -1,7 +1,7 @@
 ---
 
-title: Finance Insights: Credit and collections
-description: Finance Insights: Credit and collections
+title: Finance Insights Credit and collections
+description: Finance Insights Credit and collections
 author: MargoC
 manager: AnnBe
 ms.date: 4/27/2018

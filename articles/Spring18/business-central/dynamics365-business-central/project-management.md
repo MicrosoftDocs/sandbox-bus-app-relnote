@@ -1,7 +1,7 @@
 ---
 
 title: Project management
-description: **Resources**  Register and sell resources, combine related resources into one resource group, or track individual resources.
+description: Register and sell resources, combine related resources into one resource group, or track individual resources.
 author: MargoC
 manager: AnnBe
 ms.date: 4/27/2018

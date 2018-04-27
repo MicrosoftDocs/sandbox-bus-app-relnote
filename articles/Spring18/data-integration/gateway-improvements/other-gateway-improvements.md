@@ -1,7 +1,7 @@
 ---
 
 title: Other gateway improvements
-description: Other gateway improvements include:  -   Gateways will automatically fall back on the HTTPS protocol when     communicating with the Azure Service Bus if the default TCP protocol fails     for any reason.
+description: Other gateway improvements
 author: MargoC
 manager: AnnBe
 ms.date: 4/26/2018

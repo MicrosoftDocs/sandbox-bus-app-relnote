@@ -1,7 +1,7 @@
 ---
 
 title: Customer relational management
-description: **Contacts**  Maintain an overview of your contacts, and record your contact information for all business relationships.
+description: Maintain an overview of your contacts, and record your contact information for all business relationships.
 author: MargoC
 manager: AnnBe
 ms.date: 4/27/2018

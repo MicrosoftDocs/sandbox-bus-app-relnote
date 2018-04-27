@@ -1,6 +1,6 @@
 ---
 
-title: Globalization – India localization: Project and upgrade
+title: Globalization – India localization Project and upgrade
 description: Project localization for India lets users manage Indian Goods and Services Tax (GST) for the Project management and accounting module.
 author: MargoC
 manager: AnnBe

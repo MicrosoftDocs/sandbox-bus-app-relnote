@@ -1,7 +1,7 @@
 ---
 
 title: On-premises deployment updates
-description: In the Spring '18 release timeframe, releases (for new deployments) include:  -   Dynamics 365 for Finance and Operations, Enterprise edition 7.
+description:  On-premises deployment updates
 author: MargoC
 manager: AnnBe
 ms.date: 4/27/2018

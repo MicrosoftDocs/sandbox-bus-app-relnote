@@ -1,7 +1,7 @@
 ---
 
 title: Resources to manage GDPR compliance for your organization
-description: [Go to the Trust Center](https://www.
+description: Resources to manage GDPR compliance for your organization
 author: MargoC
 manager: AnnBe
 ms.date: 4/27/2018

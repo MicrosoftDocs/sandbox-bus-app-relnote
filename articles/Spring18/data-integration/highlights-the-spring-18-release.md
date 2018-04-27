@@ -1,7 +1,7 @@
 ---
 
 title: Highlights from the Spring ‘18 release
-description: -   **Evolution of Power Query for data integration** – Use Power Query to     integrate data into the Common Data Service for Apps and the Common Data     Service for Analytics.
+description: Highlights from the Spring ‘18 release
 author: MargoC
 manager: AnnBe
 ms.date: 4/26/2018

@@ -42,9 +42,9 @@ report, it shares both the report and the underlying dataset. It doesn’t chang
 any row-level security setting for the dataset, so the recipient sees only the
 data that they’re authorized to view.
 
-![A screenshot showing how to share reports from the mobile app](media/invite-favorite-reports-1.jpeg "A screenshot showing how to share reports from the mobile app")
+![A screenshot showing how to share reports from the mobile app](media/invite-favorite-reports-1.jpg "A screenshot showing how to share reports from the mobile app")
 <!-- Picture 5 -->
 IMAGELINKSTART
-media/image181.jpeg IMAGELINKEND
+media/image181.jpg IMAGELINKEND
 
 *Share reports from the mobile app*

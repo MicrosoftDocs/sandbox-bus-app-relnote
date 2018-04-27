@@ -29,9 +29,8 @@ innovative HoloLens to help first line task workers and field service workers
 effectively make data-driven decisions by providing a new, intuitive hand-free
 access to Power BI’s dashboards and reports in real time.
 
-![](media/507e34a661a1b831d21ea3dadda9c6cf.jpg)
 
-![Concept photo of a man in a HoloLens headset using a mixed reality app for Power BI integration](media/power-bi-mixed-reality-public-preview-1.jpeg "Concept photo of a man in a HoloLens headset using a mixed reality app for Power BI integration")
+![Concept photo of a man in a HoloLens headset using a mixed reality app for Power BI integration](media/power-bi-mixed-reality-public-preview-1.jpg "Concept photo of a man in a HoloLens headset using a mixed reality app for Power BI integration")
 <!-- Picture 1 -->
 The Power BI for Mixed Reality
 app is based on our Universal Windows Platform (UWP) app, with additional unique

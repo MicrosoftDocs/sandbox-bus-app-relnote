@@ -1,7 +1,7 @@
 ---
 
 title: Company Career site (Public Preview)
-description: >   **Availability**  >   Public Preview of Talent - Attract is available in all regions where the >   product is available.
+description: Public Preview of Talent - Attract is available in all regions where the product is available.
 author: MargoC
 manager: AnnBe
 ms.date: 4/27/2018

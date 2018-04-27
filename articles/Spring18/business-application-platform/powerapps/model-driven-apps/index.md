@@ -40,7 +40,7 @@ To get started with model‑driven apps, use designers to:
 -   **Include entities and components.** Add specific forms, views, dashboards,
     and charts for targeted entities to craft your user experience.
 
-![A screenshot of the model-driven apps list](media/index-1.jpeg "A screenshot of the model-driven apps list")
+![A screenshot of the model-driven apps list](media/index-1.jpg "A screenshot of the model-driven apps list")
 <!-- Picture 1 -->
 
 

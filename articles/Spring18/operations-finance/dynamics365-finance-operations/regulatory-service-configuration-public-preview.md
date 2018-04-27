@@ -1,7 +1,7 @@
 ---
 
-title: Regulatory service – Configuration (Public Preview)
-description: >   **Availability**  >   Public Preview of Regulatory service - Configuration is available in all >   regions where Dynamics 365 for Finance and Operations is available.
+title: Regulatory service – Configuration (Public Preview)
+description: Regulatory service – Configuration (Public Preview)
 author: MargoC
 manager: AnnBe
 ms.date: 4/27/2018

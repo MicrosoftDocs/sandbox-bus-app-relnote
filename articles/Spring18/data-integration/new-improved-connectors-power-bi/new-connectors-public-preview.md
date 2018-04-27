@@ -1,7 +1,7 @@
 ---
 
 title: New connectors for Public Preview
-description: -   HDInsight Interactive Query  -   Data.
+description:  New connectors for Public Preview
 author: MargoC
 manager: AnnBe
 ms.date: 4/26/2018

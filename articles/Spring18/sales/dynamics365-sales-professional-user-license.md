@@ -1,7 +1,7 @@
 ---
 
 title: Dynamics 365 for Sales professional user license
-description: Starting in Spring ’18, you can choose from two license types for sales: professional (new) and enterprise (currently in market), depending on your business requirements.
+description: Starting in Spring ’18, you can choose from two license types for sales professional (new) and enterprise (currently in market), depending on your business requirements.
 author: MargoC
 manager: AnnBe
 ms.date: 4/27/2018

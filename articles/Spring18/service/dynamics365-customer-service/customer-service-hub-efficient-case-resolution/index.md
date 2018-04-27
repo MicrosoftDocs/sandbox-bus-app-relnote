@@ -1,7 +1,7 @@
 ---
 
 title: Customer Service Hub for efficient case resolution
-description: >   **More resources**  >   [Overview of Customer Service and the Customer Service >   Hub](https://docs.
+description: Customer Service Hub for efficient case resolution
 author: MargoC
 manager: AnnBe
 ms.date: 4/27/2018

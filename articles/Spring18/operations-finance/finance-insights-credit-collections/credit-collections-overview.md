@@ -1,7 +1,7 @@
 ---
 
 title: Credit and collections overview
-description: >   **Availability**  >   Public Preview of Credit and collections is available in   >   all regions where Dynamics 365 for Finance and Operations is available.
+description: Credit and collections overview
 author: MargoC
 manager: AnnBe
 ms.date: 4/27/2018

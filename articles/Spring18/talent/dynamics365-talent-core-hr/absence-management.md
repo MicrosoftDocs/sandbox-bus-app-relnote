@@ -1,7 +1,7 @@
 ---
 
 title: Absence management
-description: -   **“Days” support:** In many organizations, especially in European markets,     employees submit time off in days, not hours.
+description: Absence management
 author: MargoC
 manager: AnnBe
 ms.date: 4/27/2018

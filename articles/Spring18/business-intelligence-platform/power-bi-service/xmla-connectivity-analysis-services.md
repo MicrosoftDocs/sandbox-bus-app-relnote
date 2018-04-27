@@ -1,7 +1,7 @@
 ---
 
 title: XMLA connectivity with Analysis Services
-description: ![A diagram demonstrating connectivity of Power BI Premium](media/xmla-connectivity-analysis-services-1.
+description: XMLA connectivity with Analysis Services
 author: MargoC
 manager: AnnBe
 ms.date: 4/27/2018
