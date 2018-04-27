@@ -26,26 +26,26 @@ audience: Admin
 | General Data Protection Regulation (GDPR) - Investments address the European privacy law’s requirements. [Go to the Trust Center to learn more and find resources to help you comply.](https://www.microsoft.com/en-us/TrustCenter/Privacy/gdpr/default.aspx) |
 | Accessibility enhancements- [Go to the Trust Center to learn about our industry‑leading accessibility standards.](https://www.microsoft.com/en-us/trustcenter/compliance/accessibility)                                                                       |
 | Project Service Automation app                                                                                                                                                                                                                                |
-| [Built on the Unified Interface framework](project-service-app-enhancements).                                                                                                                                                                                                 |
+| [Built on the Unified Interface framework](project-service-app-enhancements/index.md).                                                                                                                                                                                                 |
 | Universal Resource Scheduling for Project Service                                                                                                                                                                                                             |
-| [Schedule board list view](universal-resource-scheduling-project-service).                                                                                                                                                                                                          |
+| [Schedule board list view](universal-resource-scheduling-project-service/index.md).                                                                                                                                                                                                          |
 
 -   General Data Protection Regulation (GDPR) - Investments address the European
     privacy law’s requirements. [Go to the Trust Center to learn more and find
     resources to help you
     comply.](https://www.microsoft.com/en-us/TrustCenter/Privacy/gdpr/default.aspx)
 
--   [Common Control Framework (CCF)](project-service-app-enhancements).
+-   [Common Control Framework (CCF)](project-service-app-enhancements/index.md).
 
 -   [Custom pricing dimensions for resource
-    pricing](project-service-app-enhancements).
+    pricing](project-service-app-enhancements/index.md).
 
 -   [Dimension priority and dimension context for
-    resolution](project-service-app-enhancements).
+    resolution](project-service-app-enhancements/index.md).
 
--   [Price mark-ups and mark-downs](_Price_mark-ups_and).
+-   [Price mark-ups and mark-downs](project-service-app-enhancements/price-mark-ups-mark-downs.md).
 
 -   [Work breakdown structure (WBS) editable grid with Gantt
-    visualization](project-service-app-enhancements).
+    visualization](project-service-app-enhancements/index.md).
 
--   [Extensible time and expense entry](project-service-app-enhancements).
+-   [Extensible time and expense entry](project-service-app-enhancements/index.md).

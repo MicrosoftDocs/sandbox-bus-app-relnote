@@ -36,7 +36,7 @@ audience: Admin
 
 -   [Common Controls Framework (CCF)](field-service-app-enhancements/index.md).
 
--   [Associate 3D content with customer asset records](field-service-app-enhancements).
+-   [Associate 3D content with customer asset records](field-service-app-enhancements/index.md).
 
 -   [Run as a simulation](resource-scheduling-optimization-rso-enhancements/index.md).
 
