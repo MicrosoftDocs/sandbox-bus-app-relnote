@@ -22,7 +22,7 @@ audience: Admin
 
 | General Availability                                                                                                            |
 |---------------------------------------------------------------------------------------------------------------------------------|
-| [New and improved connectors for Power BI](new-improved-connectors-power-bi)                                                                |
+| [New and improved connectors for Power BI](new-improved-connectors-power-bi/index.md)                                                                |
 | Improved SAP BW DirectQuery connector.                                                                                          |
 | Improved SAP HANA DirectQuery connector.                                                                                        |
 | Improved SAP HANA & BW certification.                                                                                           |
@@ -30,7 +30,7 @@ audience: Admin
 | New Azure Analysis Services connector.                                                                                          |
 | New IBM Netezza connector.                                                                                                      |
 | Improved Azure Blob Storage connector.                                                                                          |
-| [Improved connectors for PowerApps, Microsoft Flow, and Logic Apps](improved-connectors-powerapps-flow-logic-apps)                                       |
+| [Improved connectors for PowerApps, Microsoft Flow, and Logic Apps](improved-connectors-powerapps-flow-logic-apps/index.md)                                       |
 | Improved SQL Server connector supports views, native queries, and temporal tables.                                              |
 | New operations in Office 365 Outlook and Office 365 Users connectors.                                                           |
 | Write support for PostgreSQL, MySQL, and Teradata connectors.                                                                   |
@@ -38,35 +38,35 @@ audience: Admin
 | Support for bulk operations in the Salesforce.com connector.                                                                    |
 | Logic Apps connectors now supported in Azure Government Cloud.                                                                  |
 | PowerApps and Microsoft Flow connectors now supported in UK.                                                                    |
-| [Gateway improvements](gateway-improvements)                                                                             |
+| [Gateway improvements](gateway-improvements/index.md)                                                                             |
 | Support for queries combining on-premises and online sources.                                                                   |
 | Single Sign-On support for DirectQuery sources. [Smart data preparation capabilities for Power Query](smart-data-preparation-capabilities-add-column-examples.md) |
 | Public Preview                                                                                                                  |
-| [New connectors for Power BI](new-improved-connectors-power-bi)                                                                             |
+| [New connectors for Power BI](new-improved-connectors-power-bi/index.md)                                                                             |
 | HDInsight Interactive Query.                                                                                                    |
 | Data.World.                                                                                                                     |
 | Vertica.                                                                                                                        |
 | Azure Consumption Insights.                                                                                                     |
 | Dynamics 365 for Financials.                                                                                                    |
-| [New and improved connectors for PowerApps, Microsoft Flow, and Logic Apps](improved-connectors-powerapps-flow-logic-apps)                          |
+| [New and improved connectors for PowerApps, Microsoft Flow, and Logic Apps](improved-connectors-powerapps-flow-logic-apps/index.md)                          |
 | New Azure SQL DataWarehouse connector.                                                                                          |
 | New Excel Online connector for Microsoft Flow and Logic Apps.                                                                   |
 | Support for views in Teradata and Oracle connectors.                                                                            |
 | Improved Visual Studio Team Services connector.                                                                                 |
-| New partner-built connectors, including Plumsail Forms, Plumsail SP, Kintone, and more ([see the full list](improved-connectors-powerapps-flow-logic-apps)).        |
-| [Integration with the Common Data Service for Apps and the Common Data Service for Analytics](integration-the-common-data-service-apps-the-common-data-service-analytics)        |
+| New partner-built connectors, including Plumsail Forms, Plumsail SP, Kintone, and more ([see the full list](improved-connectors-powerapps-flow-logic-apps/index.md)).        |
+| [Integration with the Common Data Service for Apps and the Common Data Service for Analytics](integration-the-common-data-service-apps-the-common-data-service-analytics/index.md)        |
 | Load data from a wide range of data sources into the Common Data Service for Apps or the Common Data Service for Analytics.     |
 | Data integration capabilities for admins.                                                                                       |
-| [Templates](_Templates_(Public_Preview))                                                                                       |
+| [Templates](templates-public-preview/index.md)                                                                                       |
 | Salesforce.com template.                                                                                                        |
 | Field Service Integration template.                                                                                             |
-| [Gateway improvements](gateway-improvements)                                                                                  |
+| [Gateway improvements](gateway-improvements/index.md)                                                                                  |
 
 -   High availability and disaster recovery improvements.
 
     -   PowerShell gateway commands library.
 
-| [Extensibility](_Extensibility_(Public_Preview))              |   |   |
+| [Extensibility](extensibility-public-preview.md)              |   |   |
 |----------------------------------------------------------------|---|---|
 | M connector SDK enables third parties to write new connectors. |   |   |
 
