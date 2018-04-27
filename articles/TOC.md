@@ -1,4 +1,5 @@
 # [Microsoft Business Applications Release Notes](index.md)
+## [Spring '18](Spring18/release-overview.md)
 ### [Availability](Spring18/availability.md)
 ### [Change history](Spring18/change-history.md)
 ### [How to use these release notes](Spring18/how-to-use-these-release-notes.md)
