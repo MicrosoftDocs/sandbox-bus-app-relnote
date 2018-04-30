@@ -1,20 +1,19 @@
 ---
 
 title: Lifecycle Services Telemetry-based KB recommendation
-description: LCS has been extended to include telemetry-driven KB recommendations to customers.
-author: MargoC
+description: LCS adds critical X++ Updates tile for AX7 could implementation based on production telemetry.
+author: AngelMarshall
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 04/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: tsmarsha
 audience: Admin
 
 ---
 #  Lifecycle Services: Telemetry-based KB recommendation
-
 
 
 
@@ -30,9 +29,15 @@ issues. This enhancement also lets us ship additional telemetry to gain
 additional insight where needed. The first example of telemetry-based KB
 recommendations is the Critical X++ updates tile.
 
-Critical X++ updates are hotfixes that we recommend based on the telemetry data
-from your production environment. These updates are specific to your production
-environment and can be downloaded only from your production environment.
+**Critical X++ updates** are hotfixes that we recommend based on the telemetry data
+from your **production** environment. 
+
+Critical X++ updates are available - 
+- For application version in 7.1, 7.2, and 7.3
+- After you have deployed a production environment for the cloud implementation 
+- critical X++ udpates can be downloaeded from any environments in LCS
+
+![critical x++ updates](media/cirticalx++updates.png "critical X++ updates")
 
 To test and apply critical X++ updates, you should first download the updates
 from the production environment, and then apply them in a development
