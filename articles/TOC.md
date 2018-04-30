@@ -213,6 +213,7 @@
 ##### [Spring ’18 summary of what’s new in Microsoft Social Engagement](Spring18/marketing/microsoft-social-engagement/whats-new-microsoft-social-engagement.md)
 ### [Operations, Finance](Spring18/operations-finance/index.md)
 #### [Dynamics 365 for Finance and Operations](Spring18/operations-finance/dynamics365-finance-operations/index.md)
+##### [Calculated rollup fields](Spring18/business-application-platform/common-data-service-apps/calculated-rollup-fields.md)
 ##### [Accessibility](Spring18/operations-finance/dynamics365-finance-operations/accessibility.md)
 ##### [Alerts](Spring18/operations-finance/dynamics365-finance-operations/alerts.md)
 ##### [Analytical workspaces with embedded Power BI for Cost management](Spring18/operations-finance/dynamics365-finance-operations/analytical-workspaces-embedded-power-bi-cost-management.md)
