@@ -2,9 +2,9 @@
 
 title: Regulatory service – Configuration (Public Preview)
 description: Regulatory service – Configuration (Public Preview)
-author: MargoC
+author: JaneTest
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 4/30/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -30,11 +30,16 @@ audience: Admin
 
 They will have access to:
 
--   Electronic reporting and tax visual designers that let them create
+-   **Electronic reporting and tax visual designers** that let them create
     configurations for electronic document formats and tax calculation rules in
     accordance with country/region regulatory requirements.
 
--   Metadata capabilities that provide the ability to import a description of
+-   **Metadata capabilities** that provide the ability to import a description of
     the target application’s artifacts, such as data tables, enumeration, and
-    classes. These are used at design time to define data sources of a data
-    model mapping version.
+    classes. These are used at design time to define data sources of a data  
+    model mapping version. 
+    
+    New text added for testing document editing
+    
+    [Microsoft](www.microsoft.com)
+    
