@@ -17,7 +17,6 @@ audience: Admin
 
 
 
-
 [!include[banner](../../../includes/banner.md)]
 
 LCS has been extended to include telemetry-driven KB recommendations to
@@ -37,6 +36,8 @@ Critical X++ updates are available -
 - For application version in 7.1, 7.2, and 7.3
 - After you have deployed a production environment for the cloud implementation 
 - critical X++ udpates can be downloaeded from any environments in LCS
+
+![critical x++ updates](media/cirticalx++updates.png "critical X++ updates")
 
 To test and apply critical X++ updates, you should first download the updates
 from the production environment, and then apply them in a development
