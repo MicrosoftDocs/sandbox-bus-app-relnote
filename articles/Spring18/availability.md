@@ -16,8 +16,6 @@ audience: Admin
 #  Availability
 
 
-
-
 [!include[banner](../includes/banner.md)]
 
 For a list of the regions where Dynamics 365 business applications are

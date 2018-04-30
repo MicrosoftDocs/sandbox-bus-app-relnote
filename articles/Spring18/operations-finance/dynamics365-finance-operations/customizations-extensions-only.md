@@ -34,6 +34,8 @@ over-layer customizations. The primary benefits of this change include:
 -   Making it possible for customers to be on the latest release of Finance and
     Operations. This is just one of the key steps in this process.
 
+![SoapUI](media/soapui4.png)
+
 To take advantage of the new extensibility features, partners and customers need
 to convert their existing overlayered customizations to extensions. To support
 this move, we have updated our extensibility documentation, which has details
