@@ -3,13 +3,13 @@
 title: Manufacturing
 description: With **Premium licensing**, you get access to manufacturing capabilities.
 author: MargoC
-manager: AnnBe
-ms.date: 4/27/2018
+manager: edupont
+ms.date: 5/02/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: andreipa
 audience: Admin
 
 ---
@@ -26,6 +26,15 @@ With **Premium licensing**, you get access to manufacturing capabilities.
 
 Create and manage production orders, and post consumption and output to the
 production orders.
+
+<!-- start lab -->
+Assign different  **status** to the production orders to manage different stages:
+- Planned
+- Finished
+- Released
+
+Learn more at [here]
+<!-- stop lab -->
 
 **Version management**
 
