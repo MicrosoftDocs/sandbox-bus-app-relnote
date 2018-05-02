@@ -35,4 +35,4 @@ easy, flexible, and fast interoperability with third-party solutions.
 
 [Link to MS](http://www.microsoft.com.)
 
-![tooltip](../media/human-resources-1.png)
+![the alt text](../media/human-resources-1.png)
