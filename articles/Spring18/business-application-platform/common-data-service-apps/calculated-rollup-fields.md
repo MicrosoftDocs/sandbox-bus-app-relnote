@@ -4,7 +4,7 @@ title: Calculated and rollup fields
 description: Calculated and rollup fields on Common Data Service for Apps entities make it possible to easily compute values for any field and summarize multiple records in a single rollup calculation.
 author: MargoC
 manager: AnnBe
-ms.date: 4/27/2018
+ms.date: 04/27/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
@@ -16,15 +16,17 @@ audience: Admin
 #  Calculated and rollup fields
 
 
-
-
 [!include[banner](../../../includes/banner.md)]
+
+
 
 Calculated and rollup fields on Common Data Service for Apps entities make it
 possible to easily compute values for any field and summarize multiple records
 in a single rollup calculation.
 
-Create calculated and rollup fields when you need to:
+![Teller is great!](media/kidswteller.jpg)
+
+Create calculated and **MASSIVELY IMPORTANT** rollup fields when you need to:
 
 -   Create number-based calculations by using Excel-like formulas.
 
@@ -41,6 +43,7 @@ Create calculated and rollup fields when you need to:
 ![A screenshot of a calculated field](media/calculated-rollup-fields-1.png "A screenshot of a calculated field")
 <!-- Picture 13 -->
 
+ [Sales Professional user license](../../sales/dynamics365-sales-professional-user-license.md)
 
 Calculated field
 
