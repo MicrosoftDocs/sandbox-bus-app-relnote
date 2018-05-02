@@ -1,3 +1,4 @@
+# [VS Code](Spring18/business-central/dynamics365-business-central/extensibility/modern-developer-experience.md)
 # [Microsoft Business Applications Release Notes](index.md)
 ## [Spring '18](Spring18/release-overview.md)
 ### [Availability](Spring18/availability.md)
