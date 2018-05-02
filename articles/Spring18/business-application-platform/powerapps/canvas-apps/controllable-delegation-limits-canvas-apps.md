@@ -26,3 +26,4 @@ larger datasets. By intentionally setting a low limit, you can also use this
 capability to spot potential problems due to lack of delegation of operations.
 
 [Test](/articles/Spring18/business-application-platform/powerapps/canvas-apps/sql-views-canvas-apps.md)
+![Glasses](/media/glasses.png "Test")
