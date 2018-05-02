@@ -1,11 +1,11 @@
 ---
 # required metadata
 
-title: [Planning imprevements]
-description: [All ]
-author: [author's GitHub alias]
-manager: [edupont]
-ms.date: [50/20/2018]
+title: Planning imprevements
+description: All planning features are better now
+author: AndreiPanko
+manager: edupont
+ms.date: 05/02/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
