@@ -33,7 +33,7 @@ Assign different  **status** to the production orders to manage different stages
 - Finished
 - Released
 
-Learn more at [here]
+Production order is the first class citizen in the supply-chain management area. Learn more [here](supply-chain-management.md)
 <!-- stop lab -->
 
 **Version management**
