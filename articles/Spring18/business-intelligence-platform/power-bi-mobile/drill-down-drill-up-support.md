@@ -20,7 +20,7 @@ audience: Admin
 
 [!include[banner](../../../includes/banner.md)]
 
-Mobile users can use drill-down and drill-up to dive deep into their data. This great feature
+Mobile users can use drill-down and drill-up to dive deep into their data. This **great feature**
 brings our mobile users more data analysis and investigation capabilities,
 allowing them to get the insights in their data. Drill down and up is enabled
 from the report visual’s tooltip menu. Tapping on a visual data point will pop
