@@ -24,6 +24,8 @@ Calculated and rollup fields on Common Data Service for Apps entities make it
 possible to easily compute values for any field and summarize multiple records
 in a single rollup calculation.
 
+![Teller is great!](media/kidswteller.jpg)
+
 Create calculated and **MASSIVELY IMPORTANT** rollup fields when you need to:
 
 -   Create number-based calculations by using Excel-like formulas.
