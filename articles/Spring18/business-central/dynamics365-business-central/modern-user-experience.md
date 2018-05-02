@@ -2,14 +2,14 @@
 
 title: Modern user experience
 description: With the Spring ’18 release, Dynamics 365 Business Central offers a refreshed and modern user experience, optimized for insights and productivity.
-author: MargoC
-manager: AnnBe
-ms.date: 4/27/2018
+author: mikebcMSFT
+manager: edupont
+ms.date: 5/02/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: mikebc
 audience: Admin
 
 ---
@@ -20,7 +20,7 @@ audience: Admin
 
 [!include[banner](../../../includes/banner.md)]
 
-With the Spring ’18 release, Dynamics 365 Business Central offers a refreshed
+With the Spring ’18 release, **Dynamics 365 Business Central** offers a refreshed
 and modern user experience, optimized for insights and productivity.
 
 ![A screenshot showing an example of the refreshed interface in Business Central](media/modern-user-experience-1.png "A screenshot showing an example of the refreshed interface in Business Central")
