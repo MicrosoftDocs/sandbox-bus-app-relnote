@@ -322,6 +322,7 @@
 ###### [Schedule board list view](Spring18/service/dynamics365-field-service/universal-resource-scheduling-urs-enhancements/schedule-board-list-view.md)
 ###### [Select a resource and load into driving directions window correctly](Spring18/service/dynamics365-field-service/universal-resource-scheduling-urs-enhancements/select-resource-load-into-driving-directions-window-correctly.md)
 ###### [Show a resource card with right click instead of hover](Spring18/service/dynamics365-field-service/universal-resource-scheduling-urs-enhancements/show-resource-card-right-click-instead-hover.md)
+###### [This is a test feature](sandbox-bus-app-relnote/articles/Spring18/service/dynamics365-field-service/universal-resource-scheduling-urs-enhancements/index.md)
 #### [Dynamics 365 Portal](Spring18/service/dynamics365-portal/index.md)
 ##### [GDPR and accessibility](Spring18/service/dynamics365-portal/gdpr-accessibility.md)
 ##### [Renewal of authentication key](Spring18/service/dynamics365-portal/renewal-authentication-key.md)
