@@ -34,6 +34,7 @@ Assign different  **status** to the production orders to manage different stages
 - Released
 
 Production order is the first class citizen in the supply-chain management area. Learn more [here](supply-chain-management.md)
+![supply chain management](media/supply-chain-management-1.png)
 <!-- stop lab -->
 
 **Version management**
