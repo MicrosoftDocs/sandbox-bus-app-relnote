@@ -1,21 +1,21 @@
 ---
 # required metadata
 
-title: [Topic name]
-description: [One sentence description of feature.]
-author: [author's GitHub alias]
-manager: [AnnBe/shellyhaverkamp/edupont04]
-ms.date: [Today's date]
+title: Evan Test
+description: This is a test markdown file
+author: evchaki
+manager: shellyhaverkamp
+ms.date: 05/02/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: [author's Microsoft alias]
-audience: [developer, admin, end user, citizen developer, customizer, business analyst, IT pro]
+ms.author: evchaki
+audience: developer, admin, end user, citizen developer, customizer, business analyst, IT pro
 
 ---
 
-# Feature name here
+# Evan Test
 
 [!include[banner](includes/banner.md)]
 
