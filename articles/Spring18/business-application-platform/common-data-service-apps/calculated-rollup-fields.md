@@ -41,7 +41,7 @@ Create calculated and **MASSIVELY IMPORTANT** rollup fields when you need to:
 ![A screenshot of a calculated field](media/calculated-rollup-fields-1.png "A screenshot of a calculated field")
 <!-- Picture 13 -->
 
- [Sales Professional user license](../../sales/dynamics365-sales-professional-user-license)
+ [Sales Professional user license](../../sales/dynamics365-sales-professional-user-license.md)
 
 Calculated field
 
