@@ -17,7 +17,7 @@ audience: developer
 
 # Feature name here
 
-[!include[banner](../../../../includes/banner.md)]
+[!include[banner](../../../../../includes/banner.md)]
 
 The best feature in the world!
 
