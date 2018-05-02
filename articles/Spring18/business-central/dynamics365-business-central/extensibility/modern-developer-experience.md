@@ -31,4 +31,6 @@ easy, flexible, and fast interoperability with third-party solutions.
 - My first bullet
 - My second bullet
 
+[Link text to another file](example-file.md)
+
 
