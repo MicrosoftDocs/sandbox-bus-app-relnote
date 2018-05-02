@@ -2,14 +2,14 @@
 
 title: Project management
 description: Register and sell resources, combine related resources into one resource group, or track individual resources.
-author: MargoC
-manager: AnnBe
-ms.date: 4/27/2018
+author: JodiChristiansen
+manager: EvaDupont
+ms.date: 05/02/2018
 ms.topic: article
 ms.prod: 
 ms.service: business-applications
 ms.technology: 
-ms.author: margoc
+ms.author: jchrist
 audience: Admin
 
 ---
@@ -43,6 +43,9 @@ manager approval, and they integrate with Service, Jobs, and Basic Resources.
 
 ![A screenshot of the Business Central project list](media/project-management-1.png "A screenshot of the Business Central project list")
 <!-- SMB_BusinessCentral_Projects_A.png -->
+
+[MS website](http://www.microsoft.com.)
+
 
 
 *Example of a Business Central project list*
