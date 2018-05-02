@@ -71,6 +71,7 @@
 ##### [Financial management](Spring18/business-central/dynamics365-business-central/financial-management.md)
 ##### [Human resources](Spring18/business-central/dynamics365-business-central/human-resources.md)
 ##### [Manufacturing](Spring18/business-central/dynamics365-business-central/manufacturing.md)
+##### [Planning](Spring18/business-central/dynamics365-business-central/planning.md)
 ##### [Modern user experience](Spring18/business-central/dynamics365-business-central/modern-user-experience.md)
 ##### [Other](Spring18/business-central/dynamics365-business-central/other.md)
 ##### [Project management](Spring18/business-central/dynamics365-business-central/project-management.md)
