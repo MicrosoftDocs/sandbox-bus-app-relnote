@@ -7,6 +7,7 @@
 ### [Your feedback matters](Spring18/your-feedback-matters.md)
 ### [Business Application Platform](Spring18/business-application-platform/index.md)
 #### [Common Data Service for Apps](Spring18/business-application-platform/common-data-service-apps/index.md)
+##### [Teller is great](Spring18/operations-finance/dynamics365-finance-operations/teller.md)
 ##### [Calculated and rollup fields](Spring18/business-application-platform/common-data-service-apps/calculated-rollup-fields.md)
 ##### [Improved entity creation and customization](Spring18/business-application-platform/common-data-service-apps/improved-entity-creation-customization.md)
 ##### [Improved Excel add-in](Spring18/business-application-platform/common-data-service-apps/improved-excel-add-in.md)
