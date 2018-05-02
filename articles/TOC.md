@@ -68,6 +68,7 @@
 ##### [Broad regional availability](Spring18/business-central/dynamics365-business-central/broad-regional-availability.md)
 ##### [Customer relational management](Spring18/business-central/dynamics365-business-central/customer-relational-management.md)
 ##### [Essential and Premium](Spring18/business-central/dynamics365-business-central/essential-premium.md)
+##### [Features for Power Users](Spring18/business-central/dynamics365-business-central/features for power users.md)
 ##### [Financial management](Spring18/business-central/dynamics365-business-central/financial-management.md)
 ##### [Human resources](Spring18/business-central/dynamics365-business-central/human-resources.md)
 ##### [Manufacturing](Spring18/business-central/dynamics365-business-central/manufacturing.md)
