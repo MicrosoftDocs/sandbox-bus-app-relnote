@@ -19,13 +19,24 @@ audience: Admin
 
 [!include[banner](../../includes/banner.md)]
 
-The Common Data Model is an open-source definition of standard entities that
+The Common Data Model is a VERY IMPORTANT open-source definition of standard entities that
 represent commonly used concepts and activities across a variety of business and
 application domains. The Common Data Model offers well-defined, modular, and
 extensible business entities such as Account, Business Unit, Case, Contact,
 Lead, Opportunity, and Product. It also offers interactions and relationships
 between vendors, workers, and customers, such as activities and service level
 agreements.
+
+![Teller is cool](media/kidswteller.jpg)
+
+| Case Name                                  | Total Number | Failed Number | Passed Number |
+|--------------------------------------------|--------------|---------------|---------------|
+| Missing alerts                             | 299          | 0             | 299           |
+| Missing breadcrumbs                        | 299          | 2             | 297           |
+| Broken breadcrumb links                    | 1794         | 1             | 1793          |
+| Breadcrumb links to pages external to Docs | 1794         | 0             | 1794          |
+
+[Link to another topic](../common-data-service-analytics/datapools.md)
 
 The Common Data Service for Apps and the Common Data Service for Analytics from
 Microsoft implement the Common Data Model. These services hold data that
@@ -89,7 +100,7 @@ capabilities:
     templates simplify the process of connecting to common data sources such as
     Salesforce.com. Mapping templates are fully customizable and extensible.
 
->   ![Import external data and map it to standard entities in Power Query](media/common-data-model-data-integration-2.png "Import external data and map it to standard entities in Power Query")
+>   ![Import external data and map it to standard entities in Power Query](media/common-data-model-data-integration-2.PNG "Import external data and map it to standard entities in Power Query")
 
 *Import external data and map it to standard entities in Power Query*
 
